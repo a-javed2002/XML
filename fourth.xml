@@ -1,0 +1,33 @@
+<?xlm version="1.0" encoding+"iso-8859-1"?>
+<company>
+<employee id="10234">
+<name>SALMAN</name>
+<salary>5000</salary>
+<joining_date>2-2-2015</joining_date>
+<position>MANAGER</position>
+</employee>
+<employee id="10235">
+<name>IBRAHIM</name>
+<salary>20000</salary>
+<joining_date>3-5-1990</joining_date>
+<position>CEO</position>
+</employee>
+<employee id="10236">
+<name>ASIM</name>
+<salary>5000</salary>
+<joining_date>4-4-2017</joining_date>
+<position>MANAGER</position>
+</employee>
+<employee id="10237">
+<name>GHAZANFAR</name>
+<salary>5000</salary>
+<joining_date>8-10-2015</joining_date>
+<position>MANAGER</position>
+</employee>
+<employee id="10238">
+<name>SAIMA</name>
+<salary>10000</salary>
+<joining_date>4-5-2000</joining_date>
+<position>MD</position>
+</employee>
+</company>

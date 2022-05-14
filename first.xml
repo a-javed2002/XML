@@ -1,0 +1,19 @@
+<?xlm version="1.0" encoding+"iso-8859-1"?>
+<bank>
+<employee id="103">
+<name>ASIM</name>
+<salary>20000</salary>
+</employee>
+<employee id="105">
+<name>BASIM</name>
+<salary>30000</salary>
+</employee>
+<employee id="110">
+<name>JASIM</name>
+<salary>30000</salary>
+</employee>
+<employee id="111">
+<name>QASIM</name>
+<salary>40000</salary>
+</employee>
+</bank>

@@ -1,0 +1,19 @@
+<?xlm version="1.0" encoding+"iso-8859-1"?>
+<world>
+    <country id="paksitan">
+        <president>AARIF ALVI</president>
+        <population>229.50 Million</population>
+    </country>
+    <country id="india">
+        <president>Ram Nath Kovind</president>
+        <population>1380.04 MILLIION</population>
+    </country>
+    <country id="turkey">
+        <president>Recep Tayyip Erdoğan</president>
+        <population>83.61 MILLION</population>
+    </country>
+    <country id="dubai">
+        <president>MUHHAMD BIN RASHID</president>
+        <population>3.43 MILLIONS</population>
+    </country>
+</world>
